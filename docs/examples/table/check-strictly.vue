@@ -64,7 +64,22 @@ const tableData: User[] = [
         date: '2016-05-01',
         name: 'wangxiaohu',
         address: 'No. 189, Grove St, Los Angeles',
+            children: [
+      {
+        id: 31,
+        date: '2016-05-01',
+        name: 'wangxiaohu',
+        address: 'No. 189, Grove St, Los Angeles',
       },
+      {
+        id: 32,
+        date: '2016-05-01',
+        name: 'wangxiaohu',
+        address: 'No. 189, Grove St, Los Angeles',
+      },
+    ],
+      },
+      
     ],
   },
   {
